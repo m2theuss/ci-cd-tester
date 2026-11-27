@@ -1,0 +1,15 @@
+/home/matheus/Downloads/ci-cd-tester/CiTester/obj/Debug/net10.0/CiTester.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Downloads/ci-cd-tester/CiTester/obj/Debug/net10.0/CiTester.AssemblyInfoInputs.cache
+/home/matheus/Downloads/ci-cd-tester/CiTester/obj/Debug/net10.0/CiTester.AssemblyInfo.cs
+/home/matheus/Downloads/ci-cd-tester/CiTester/obj/Debug/net10.0/CiTester.csproj.CoreCompileInputs.cache
+/home/matheus/Downloads/ci-cd-tester/CiTester/obj/Debug/net10.0/CiTester.sourcelink.json
+/home/matheus/Downloads/ci-cd-tester/CiTester/bin/Debug/net10.0/CiTester
+/home/matheus/Downloads/ci-cd-tester/CiTester/bin/Debug/net10.0/CiTester.deps.json
+/home/matheus/Downloads/ci-cd-tester/CiTester/bin/Debug/net10.0/CiTester.runtimeconfig.json
+/home/matheus/Downloads/ci-cd-tester/CiTester/bin/Debug/net10.0/CiTester.dll
+/home/matheus/Downloads/ci-cd-tester/CiTester/bin/Debug/net10.0/CiTester.pdb
+/home/matheus/Downloads/ci-cd-tester/CiTester/obj/Debug/net10.0/CiTester.dll
+/home/matheus/Downloads/ci-cd-tester/CiTester/obj/Debug/net10.0/refint/CiTester.dll
+/home/matheus/Downloads/ci-cd-tester/CiTester/obj/Debug/net10.0/CiTester.pdb
+/home/matheus/Downloads/ci-cd-tester/CiTester/obj/Debug/net10.0/CiTester.genruntimeconfig.cache
+/home/matheus/Downloads/ci-cd-tester/CiTester/obj/Debug/net10.0/ref/CiTester.dll
