@@ -31,3 +31,5 @@ jobs:
           echo test, and deploy your project.
       - name: dotnet version testing
         run: dotnet --version
+      - name: check testings
+        run: cd CiTester.Test/ && dotnet test
